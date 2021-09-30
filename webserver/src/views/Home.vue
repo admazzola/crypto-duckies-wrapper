@@ -15,7 +15,7 @@
    </div>
 
    
- <div class="section  text-white  border-b-2 border-black hidden" style="background:#222;">
+ <div class="section  text-white  border-b-2 border-black  " style="background:#222;">
      <div class="w-container  ">
 
          
